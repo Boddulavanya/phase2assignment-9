@@ -1,0 +1,12 @@
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\bin\Debug\ConAppAssignment-9.exe.config
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\bin\Debug\ConAppAssignment-9.exe
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\bin\Debug\ConAppAssignment-9.pdb
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\bin\Debug\EntityFramework.dll
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\bin\Debug\EntityFramework.SqlServer.dll
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\bin\Debug\EntityFramework.xml
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\bin\Debug\EntityFramework.SqlServer.xml
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\obj\Debug\ConAppAssignment-9.csproj.AssemblyReference.cache
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\obj\Debug\ConAppAssignment-9.csproj.CoreCompileInputs.cache
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\obj\Debug\ConAppAssignment-9.csproj.CopyComplete
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\obj\Debug\ConAppAssignment-9.exe
+D:\simplilearn\phase2\day-9\ConAppAssignment-9\ConAppAssignment-9\obj\Debug\ConAppAssignment-9.pdb
